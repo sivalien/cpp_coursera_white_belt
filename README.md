@@ -1,3 +1,3 @@
-# cpp_coursera_whilte_belt
+# cpp_coursera_white_belt
 
 Проект для курса "Oсновы разработки на С++: белый пояс"
